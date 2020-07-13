@@ -437,3 +437,7 @@ C:\Users\smuller\source\repos\BlogCore\BlogCore\obj\Debug\netcoreapp3.1\Razor\Ar
 C:\Users\smuller\source\repos\BlogCore\BlogCore\obj\Debug\netcoreapp3.1\Razor\Areas\Cliente\Views\Home\Privacy.cshtml.g.cs
 C:\Users\smuller\source\repos\BlogCore\BlogCore\obj\Debug\netcoreapp3.1\Razor\Areas\Cliente\Views\_ViewImports.cshtml.g.cs
 C:\Users\smuller\source\repos\BlogCore\BlogCore\obj\Debug\netcoreapp3.1\Razor\Areas\Cliente\Views\_ViewStart.cshtml.g.cs
+C:\Users\smuller\source\repos\BlogCore\BlogCore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categorias\Index.cshtml.g.cs
+C:\Users\smuller\source\repos\BlogCore\BlogCore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categorias\Create.cshtml.g.cs
+C:\Users\smuller\source\repos\BlogCore\BlogCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_VistaCrearVolver.cshtml.g.cs
+C:\Users\smuller\source\repos\BlogCore\BlogCore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categorias\Edit.cshtml.g.cs
